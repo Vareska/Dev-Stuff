@@ -1,4 +1,4 @@
-Stuff relating to the 2D Tower Defence game
+Stuff relating to the 3D Tower Defence game
 
 IDEAS 
 ---------------------------------------------
@@ -16,10 +16,10 @@ Complete at wave 50
 ASSETS REQUIRED
 ---------------------------------------------
 Menu / UI
-2D Mobs
-2D Turrets
-2D Bullets / Projectiles
-2D Castle / Base
+3D Mobs
+3D Turrets
+3D Bullets / Projectiles
+3D Castle / Base
 ---------------------------------------------
 
 NOTES
