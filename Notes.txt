@@ -1,22 +1,30 @@
-Stuff relating to the 2D puzzle game
+Stuff relating to the 2D Tower Defence game
 
 IDEAS 
 ---------------------------------------------
-Top down / slanted / Fixed Camera orientation
-Colours
-puzzle types
+Camera Mode: Top down / Fixed Camera Orientation
+Colours: Dark Theme / Hell Theme
+Enemies: Creatures from the underworld / demons
+Tower Defence Game
+Difficulty scaling based on level
+Waves of enemies
+Building only when no enemies present
+Bosses
+Complete at wave 50
 ---------------------------------------------
 
 ASSETS REQUIRED
 ---------------------------------------------
-
-
-
+Menu / UI
+2D Mobs
+2D Turrets
+2D Bullets / Projectiles
+2D Castle / Base
 ---------------------------------------------
 
 NOTES
 ---------------------------------------------
-
-
-
+Building Locations for defences across map
+Varying reward based on level / Tokens (building / upgrade)
+Story line explaining why you are there
 ---------------------------------------------
